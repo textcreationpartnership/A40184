@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fevv vvords to all such (whether papists or Protestants) as observe dayes contrary to Christ and his apostles and several weighty things concerning the cross of Christ and the headship of the Church, wherein the Pope is proved to be a false and a counterfeit head, and a robber of the honour due to Christ the true head of the true Church ; also The Quakers challenge to the papists, and The Quakers testimony concerning magistracy / by G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40184</idno><idno type="EEBO-CITATION">11304134</idno>
+  <idno type="VID">47371</idno>
+  <idno type="EEBO-PROQUEST">2240883089</idno>
+  
+            <idno type="STC">Wing F1818</idno>
+            <idno type="STC">ESTC R30370</idno>
+            <idno type="OCLC">11304134</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40184)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47371)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fevv vvords to all such (whether papists or Protestants) as observe dayes contrary to Christ and his apostles and several weighty things concerning the cross of Christ and the headship of the Church, wherein the Pope is proved to be a false and a counterfeit head, and a robber of the honour due to Christ the true head of the true Church ; also The Quakers challenge to the papists, and The Quakers testimony concerning magistracy / by G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+                  <author>Fox, George, 1624-1691. Quakers testimony concerning magistrates.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47371:1"/>
+            <pb facs="tcp:47371:1"/>
+            <p>A FEVV VVORDS TO All such (whether Papists or Prote<g ref="char:EOLhyphen"/>stants) as observe Dayes contrary to Christ and his Apostles.</p>
+            <p>AND Several weighty things concerning the Cross of Christ, and the Headship of the Church; Wherein the Pope is proved to be a false and a counterfeit Head, and a robber of the Honour due to Christ, the true Head of the true Church.</p>
+            <p>ALSO, The <hi>Quakers</hi> Challenge to the <hi>Papists;</hi> and the <hi>Quakers</hi> Testimony, concerning <hi>Magistracy.</hi>
+            </p>
+            <p>By <hi>G. F.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the year, 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:47371:2"/>
+            <pb n="3" facs="tcp:47371:2"/>
+            <head>To all such as observe Dayes contrary to Christ and the Apostles.</head>
+            <p>PApists and Protestants, you keep <hi>Peters</hi> Day in Sports and Playes, and Wickedness; but deny <hi>Peters</hi> Light, which was his Day &amp; his Life. You keep <hi>John's, James, Matthew's, Luke's,</hi> and <hi>Andrews</hi> Dayes; <hi>Mark's, Bartholomew's,</hi> and <hi>Stephen</hi>'s; you keep those Dayes for them in sports, pastimes, playes, and drunkeness; and this is like <hi>Sodom,</hi> who raged again the just <hi>Lot:</hi> And so you that live wantonly upon the Earth, and in pleasures, and keeping Saints Dayes, you kill the Just, eat and drink, and rise up to play; so in this, you deny the Just, that kills him; in this you deny the Apostles Lives and Spirits; and then when you have done, you observe their Dayes: And you observe <hi>Childermas</hi> Day, <hi>Rachels</hi> Children which suffered: You, who are the Children of the <hi>Bond-woman,</hi> observe it in pleasures, not in the sense of the sufferings of the holy, dear, godly Apostles, who were faithful and just, who forbad the observing of Dayes in their time, and did not set up their own Dayes to be observed, nor of Christs, nor none of the Saints; you observe <hi>Christs</hi> Day with Pleasures, and Cards, and bad Sports, and Drunkenness, and Idleness, who are in the works of Darkness, that kills the Just; but you do not observe the Day of Christ which <hi>Abraham</hi> saw, for you hate the Light, and so cannot see his Day, none of you that ob<g ref="char:EOLhyphen"/>serve Dayes. You observe <hi>Mary Magdalens</hi> Day, who washed Christs Feet, and are persecuting him in his Members. You ob<g ref="char:EOLhyphen"/>serve <hi>Marys</hi> Day, the Mother of Jesus; and as I said before, persecute them wherein he is brought forth, and cannot abide to hear talk of Christ within, which the Apostles preached; so the Spirit of the Prophets, Christ, and the Saints, is without you in the Scripture (as you say) and you have it not; in the mean while
+<pb n="4" facs="tcp:47371:3"/>the Evil lodges within you, that brings you to observe the out<g ref="char:EOLhyphen"/>ward Day, and to persecute them that will not, who are come to the Day of Christ, which all the Apostles and Saints were come to which <hi>Abraham</hi> saw; and there is none upon the Earth, that observes Christs Day, and the Apostles and Saints Day, and the holy Womens Day, but such as observe the Light, and that brings them out of all outward Dayes from observing of them, to Christs Day which <hi>Abraham</hi> saw, and rejoyced, and was glad: so his joy and gladness was in the Day of Christ Jesus; but your joy and gladness is in the flesh; in cutwardly observing the Apostles, and Saints, and Christs Birth and Suffering Dayes, with that Spi<g ref="char:EOLhyphen"/>rit that made them to Suffer, in that stands your joy and gladness, who cannot abide to hear your outward observing of Dayes cried against, which you have set up since you have lost the Light, and Life, and Power that Christ and the Apostles were in, who did not observe your Dayes. And as for your observing your <hi>Easter,</hi> your Heathen Goddess, or the Jews Passeover, which is contrary to the true Christians in the Apostles dayes, for they did not observe it. And as for your observing the <hi>Whitsontide,</hi> the Jewes Penticost, which is contrary to the Apostles and the Christians in the Primi<g ref="char:EOLhyphen"/>tive times, for they did not observe such things. And as for your observing your <hi>Christmas,</hi> your <hi>Michaelmas,</hi> your <hi>Lammas;</hi> that is, your <hi>Mass</hi> for your <hi>Lambs,</hi> your <hi>Mass</hi> for your <hi>Candles,</hi> your <hi>Mass</hi> for <hi>Children,</hi> your <hi>Mass</hi> for <hi>Michael</hi> the Archangel; all this is contrary to the Apostles and the Primitive Christians, who did not observe such things, but declared against the Jews obser<g ref="char:EOLhyphen"/>ving of Dayes, and the Heathens also; and did not set up Dayes amongst themselves to be observed, nor for others, and persecute such that would not observe with them, but declared against them as many have done since the Apostles dayes. So for all the outward Dayes you do observe in your fleshly mind, Papists and Prote<g ref="char:EOLhyphen"/>stants, look among your Streets, Towns, and High-wayes in those dayes, and see what Drunkenness, and Revelling, and Fighting, and Wildness, and Evil Words, and Prophaning the Name of God there is, not Hallowing of it: And see what abundance of Wickedness is committed on those Dayes which you have set a<g ref="char:EOLhyphen"/>part, and how they are prophaned, and Gods Name blasphemed,
+<pb n="5" facs="tcp:47371:3"/>what Cursing and Swearing, and what multitude of Playes and Shows is acted by that fleshly Birth that persecuted the Birth born of the Spirit, on those Dayes set apart to be observed, let loose both young and old, whereby the Lord God is much dishonoured; and therefore come out of all that observing of Dayes, and ob<g ref="char:EOLhyphen"/>serve the Day of Christ that <hi>Abraham</hi> saw, and there is the true Joy and Rejoycing of the Second Birth.</p>
+            <p>The Preaching of the Cross of Christ, which is the Power of God, was foolishness in the Apostles dayes to the wise Greeks and Professors; And now to all you Papists and Protestants, Is not the Preaching of the Cross of Christ, which is the Power of God, foolishness to you all that have set up your Wooden, Iron, Brass, Silver, and Stone Crosses, since the Apostles dayes, and since you have lost the Power of God; so the Preaching up of the Cross of Christ, which is the Power of God, which Cross of Christ, the Power of God, was Preached up in the Apostles dayes; Now if this be foolishness to you, then your Preaching up of Stone, Iron, Brass, and Wooden Crosses, &amp;c. is your Wisdom and not Foolishness; and the Preaching up of the Cross of Christ, the Power of God, is Foolishness to you, and not Wisdom.</p>
+            <p>It is clear in the Scriptures of the New Testament, That Christ is the Head of the Church; And the Apostle saith, <hi>That Christ is the Head of the Church;</hi> and none of the Apostles did take that Headship upon themselves; but in all the Scriptures of the New Testament, they gave that Honour to Christ, the Headship of his Church; and so never was any of the Apostles, Saints, or Primi<g ref="char:EOLhyphen"/>tive Christians called the Head of the Church: And therefore it is clear, That the Pope, that calls himself Head of his Papists, and Slaves, and Vassals, has got up since the Apostles dayes, and is judged by Christ, who said, <hi>They should not exercise Lordship one over another as the Gentiles did:</hi> And so its clear, That the Pope is as one of the Gentiles, called Gracious Lords, exercising Autho<g ref="char:EOLhyphen"/>rity over his fellow Creatures, and is no true Christian, but hath thrown away the Command of Christ Jesus, and by it is judged. Now look upon some Scriptures, as follow, in the New Testa<g ref="char:EOLhyphen"/>ment,
+<pb n="6" facs="tcp:47371:4"/>
+               <hi>Eph.</hi> 1.22. speaking of Christ, how that <hi>he is ascended far above all Principalities, Thrones, Powers, Might, and Dominions, and every Name that is named, not only in this World, but also in that which is to come;</hi> (Mark People, His Name is above the Pope) <hi>and hath put down all things under his feet, and gave him to be the Head over his Church, which is his Body, the Fulness of him that filleth all things.</hi> So Christ, it is clear, is the Head of his Church; So if Christ has a Church or Congregation upon the Earth, he is the Head of it, and not the Pope. Now if you say, Christ has no Church nor Congregation upon the Earth, and that he is Head of none, but the Pope is Head; this is clear, as you say then, that the Pope is the Whore, and the Beast that rose out of the Earth, that the Nations have drunk of her Cup of Fornica<g ref="char:EOLhyphen"/>tion, who must drink the Cup of the fierceness of the Wrath of God Almighty before it is purged out again: But it's clear, The Apostles and Saints in the Primitive times, while they were upon the Earth, were called the Church, and Congregation, and Body of Christ, which he was Head of, and did acknowledge him so to be when they were upon the Earth, and not <hi>Peter,</hi> nor <hi>Paul,</hi> nor none of the Apostles; And this was many hundred years before the Universal Pope got to be Head of his counterseit Church: And it's clear again, Christ hath a People upon the Earth, and had a People since the Apostles Day to this day, that hath-acknow<g ref="char:EOLhyphen"/>ledged Christ the Head of the Church, that has Suffered by Hea<g ref="char:EOLhyphen"/>thens, and Papists, and some Protestants, as the Chronicles and Book of Martyrs do testifie: And also the Apostle saith, <hi>Eph.</hi> 4.15. where he speaketh to the Church, That they were to <hi>speak the Truth in Love, and grow up in Christ in all things, which is the Head of the Church.</hi> And now People, Is it not clear, that these Saints lived upon the Earth, who were to grow up in Christ the Head of the Church; neither <hi>Peter,</hi> nor none of the Apostles, takes that honour to themselves, as Head of the Church; Neither did the Apostle say that the Saints were to grow up in him their Head, nor in <hi>Peter</hi> their Head, nor in the Pope the Head of the Church; but in Christ. And so it's clear here, the Pope has taken that ho<g ref="char:EOLhyphen"/>nour to himself, and his own head, which none of the Apostles did, but gave it unto Christ; And so the Thief the Pope is found
+<pb n="7" facs="tcp:47371:4"/>out, and he is proved to be a Thief, and a robber of Christ of his Honour, taking that Headship to himself that belongs to Christ; and that Honour to his own Head, which belongs to Christs Head; and so this Thief, and Robber of Christ of his Honour, is judged by Christ, and his Apostles, and all his Saints and Martyrs. And again, the Apostle saith, <hi>Christ is the Head of every Man;</hi> yea, <hi>and the Head of all things;</hi> and so is not the Pope. And the Apostle saith, to the Church of the <hi>Colossians, That Christ is the Head of the Church, his Body; and he was before all things, and by him all things consists; who is the beginning, the first-born from the Dead, that in all things he might have the prehe<g ref="char:EOLhyphen"/>minence.</hi> Mark People, <hi>the Preheminence.</hi> Now unce the Apostles dayes, the Pope is perch'd up as Head, and he would take the Preheminence to himself, and rob Christ of his honour: For, these <hi>Colossians</hi> &amp; Apostles were upon the Earth when they did ac<g ref="char:EOLhyphen"/>knowledge Christ to be the Head of the Church, which was many hundred years before the Papists Universal Pope got up; and those that did witness all along, since the Apostles dayes, That Christ was the Head of the Church upon the Earth, and denyed the Pope to be any Head of the Church, those the Pope mur<g ref="char:EOLhyphen"/>thered, if he could get them into his Clutches. And so it is clear, Christ is the Head of all that be of his Church, and he hath the Preheminence in all things, and they do grow up in him who is their Head; And the Papists grow up in the Pope, who is their counterfeit Head, of Persecutors; and they give him the Preheminence; and so both he and they are Robbers of Christ of his honour, who gives their honour to the Beast, and receives his Mark in their Hand and Forehead, that is, his Brand (so People take notice of his Brand) is easily seen, that they have the Mark of a Thief that robs Christ of his honour: <hi>Col.</hi> 2.19. The Apostle there saw some in his dayes, That were <hi>in a voluntary humility, and worshipping of Angels, intruding into those things which they had not seen; vainly puft up by their fleshly mind, not holding the Head;</hi> Now (mark People) these the A<g ref="char:EOLhyphen"/>postle saw were upon the Earth, that did <hi>not hold the Head</hi> (which was Christ) <hi>from which all the Body</hi> (which is the Church) <hi>by joynts and bands, have nourishment ministred, knit together, encreaseth with
+<pb n="8" facs="tcp:47371:5"/>the increase of God.</hi> And now (mark People) is not this the Pope and his Company? Lock on his Brand, the Beasts Mark, which he is branded withal; Are they nor in the worshipping of An<g ref="char:EOLhyphen"/>gels, and a voluntary humility? are they not intruded into those things they never saw? And are not the Papists and the Pope their Head, vainly puft up in a fleshly mind, and now he will be the Head of them? Of such as worship Angels; be the Head of such as observe Dayes, which the Apostles said were be<g ref="char:EOLhyphen"/>witched; the Head of such as forbid Meats, and Drinks, and Martiages, which the Apostle calls Doctrine of Devils; and the Head of such that be in a voluntary humility, by which he would beguile People. And so see, People, if the Head and the Tayl be not judged by the Apostles, look on his Brand, on his Mark; So the Pope, nor his Church, cannot receive nourishment from Christ the Head, that doth not hold him their Head: So it's clear, People, They have got up another Head, a false counter<g ref="char:EOLhyphen"/>feit Head, since the Apostles dayes. And it's clear also to the Church of the <hi>Ephesians, That Christ is the Head of his Church, and the Saviour of the Body; and every one witnessing him to be the Saviour of the Body, witnesses him to be the Head of the Church;</hi> and not the Pope to be the Saviour of the Body, nor the Head of the Church; but the Destroyer of the Bodies and Souls of People: For, how many hath he destroyed within this thousand years, since he got up and took that upon himself, which neither Christ nor the Apostles gave him. The Apostles say, <hi>That there is no Salvation by any other Name, but by the Name of Jesus Christ;</hi> And the Pope (who is Head of his Papists) saith, They can forgive Sin and Pardon, to wit, his Jesuits, Priests, and Friars. People, Don't you take notice, here is the Beast with his many Names? here is clear the many Antichrists? For Christ and God is One, and his Name is One, and all his true Church he is Head of, have their Fathers Mark in their Forehead; and all the counterfeit Church hath their Father the Popes Brand in their Forehead and Hand, and known to be Thieves and Robbers of Christ; Look on their Brand, People, and look upon Christs Church, and see the Fathers Mark in their Forehead, the White Stone, how it glisters in the People Christ is Head of. Praying
+<pb n="9" facs="tcp:47371:5"/>to Angels, was forbidden by the Angel: But the Pope he has thrown away this Command, and prayes to Angels: For <hi>John</hi> in the <hi>Revelations</hi> was forbidden, but was Commanded to wor<g ref="char:EOLhyphen"/>ship God. So it's clear, They that worship Angels do not wor<g ref="char:EOLhyphen"/>ship God, nor hold Christ to be the Head of the Church. And <hi>Matth.</hi> 12.21. <hi>In Christs Name shall the Gentiles trust.</hi> So their trust is in the Name of Jesus, who is Head of the Church; and not the Pope the Head: For Christ enlightens the Gentiles, and through this Light they see Jesus, through which Light they trust in his Name; and that Repentance, and Remission of Sins should be preached among all Nations in the Name of Jesus. And so Repentance and Remission of Sins is not preached in the Name of the Pope among all Nations, nor in the Name of Je<g ref="char:EOLhyphen"/>suites, nor Priests, nor Friars, for they cannot remit sins; For they say, They have not the same Power and Holy Ghost that the Apostles had; For he that remits sins, saves; And there is no Salvation under Heaven by any other Name than the Name of Jesus; And so the Belief was in the Name of Jesus: And so the Pope, who came in his own Name, the Papists have re<g ref="char:EOLhyphen"/>ceived, and made him their Head: But Christ came in his Fa<g ref="char:EOLhyphen"/>thers Name, who is the Head of the Church, and him you Papists have not received to be your Head, and so have not Life through his Name; and so you having not Faith in the Name of Christ to be your Head, you are not made whole, but lye in spiritual sicknesses and sins. And <hi>John</hi> in his <hi>first Epistle, chap. 2. vers.</hi> 12. saith to them, <hi>Your sins are forgiven for his Names sake; and be it is that blots out all your sins and transgressions:</hi> And therefore for Christs Names sake, who is the Head of his Church, are his Saints hated; and all the Members of his Church that are ga<g ref="char:EOLhyphen"/>thered together in his Name, and he is Head of them, and is a<g ref="char:EOLhyphen"/>mong them. And therefore the Papists and Pope are not gather<g ref="char:EOLhyphen"/>ed in Christs Name it is clear, for they have set up another Head than Christ, neither is Christ amongst them; And what any one was to ask, it was to be in Christs Name; if they ask'd of the Father, it was to be in Christs Name. See <hi>John</hi> 14.14. &amp; 15.16. <hi>Ye shall ask in my Name,</hi> saith Christ: But sayes the Pope, the false Head of the false Church, You must ask in the Saints
+<pb n="10" facs="tcp:47371:6"/>Name, and <hi>Maries</hi> Name, and the Angels Name; which is a<g ref="char:EOLhyphen"/>nother Doctrine and Gospel than the Apostles and Christ Prea<g ref="char:EOLhyphen"/>ched, and so accursed: And we are not ashamed of Christs Name, who is our Head; but are ashamed of your Head. And as for your Praying to the Dead, and praying for the Dead, it is con<g ref="char:EOLhyphen"/>trary to the Scriptures, and the practises of all the holy Men. And as for your asking Counsel of the Dead, it is like unto <hi>Saul</hi> going unto the Witch, and asking Counsel of the Dead; which Witch may raise a Devil instead of a Saint: And all you that ask Counsel at the Dead, are such as the Lord hath departed from, as you may see, 1 <hi>Sam.</hi> 28. and in <hi>Deut.</hi> 14. They were to make no baldness betwixt their Eyes for the Dead. The Command of the Lord was, They should not make any cutting in the flesh for the Dead; nor print any mark upon them. <hi>Ezek.</hi> 24.15, 17. <hi>The Word of the Lord came unto me, saying; Forbear to cry, make no mourning for the Dead.</hi> And see what a counterfeit Howling condition there against your Howling.</p>
+            <closer>
+               <signed>G.F.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:47371:6"/>
+            <head>A Challenge to the Papists.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>VVEE understand, That you stand for your Mother Church of <hi>Rome,</hi> with all that old Womans Fables; And for all her Jesuites, Fryars, and Monks, and their Church, that the Gates of Hell cannot prevail against, as you say; And we see most of your Church are thrown down here in <hi>Ireland;</hi> and so we are sorry a Lye should be found in your Mothers Mouth, which hath said, That the Gates of Hell shall not prevail against it, that Old Woman, the Church of <hi>Rome;</hi> and that you stand for her Fables, Sacraments, and Altars, that is, after you have Consecrated your Bread and Wine, it is the very Christ, the whole Christ, Body, Soul, and Blood, and it is Immortal, and Divine, as you say. Bring out all your Friars, and Jesuites, and the Pope himself, and his Cardinals; and we will have a Bottle of Wine and put it into two Basons divided, and a Loaf of Bread cut into two; and you shall Consecrate which part you will, and after you have Consecrated it, we will set the Consecrated, and Unconsecrated together in a Celler, and we will have a Watch on your side, seven; and on our side, seven. And if your Consecrated proves Im<g ref="char:EOLhyphen"/>mortal, and Divine, and lose not its Property, or Taste, but proves the very Body of Christ, Soul, and Blood;
+<pb n="12" facs="tcp:47371:7"/>then we will all turn to you. <hi>[For the Flesh of Christ saw no Corruption.]</hi> But if the Consecrated alters its Property and Taste, and proves Mouldy, and the Wine lose its Taste, and grow Sowre or Dead, then you shall all turn to us. And this is the way by which we will try your God, and Christ; and also it will be a way to bring Truth to light, and Honour to God; for you have shed much Blood about this thing, and burned many to Ashes, be<g ref="char:EOLhyphen"/>cause they would not own Bread and Wine to be the Body and Blood of Christ. Now let your Friars, Monks, Jesuites, Pope, and Cardinals, come out to try your Christ which you have made of Bread and Wine.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>James Lancaster,</hi>
+                     </item>
+                     <item>
+                        <hi>John Stubbs.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Briggs.</hi>
+                     </item>
+                     <item>
+                        <hi>G. F.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Ireland,</hi>
+                  <date>the 19th of the 3d Mon. 1669.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="treatise">
+            <pb n="13" facs="tcp:47371:7"/>
+            <head>THE Quakers Testimony Concerning MAGISTRACY.</head>
+            <p>ALL you that call your selves Christians, who have been so angry, <hi>Independants</hi> and <hi>Presbyterians,</hi> we have not forgot your anger, and malice, and others, against the <hi>Quakers,</hi> who were moved of the Lord God (the Spirit having constrained them, and his Power) to cry against Drunkards, Swearers, Cursers, Fighters, Cheaters, Couzeners, Bawdy-houses, Whore-houses, and your Pleasures, Games, and Sports, which you keep on your Idle Dayes to dishonour God, which are more like the Families of <hi>Sodom, Babylon,</hi> and <hi>Egypt,</hi> than Christians: And because we have cried against such things in your Streets and Markets, and against your Priests, which are the Hirelings, which the Prophets and Christ cried against. You have been in a tage, and Imprisoned and Persecuted us; and said, <hi>We made Tumults:</hi> And when we bid you Repent, you called us <hi>Papists;</hi> and thus you branded us for crying against your wickedness in Streets, High-wayes, and Markets, which shews what Spirits you are of, that could not bear that Wickedness should be cried against; and then you have branded us as <hi>being against Magistrates:</hi> Now is not the <hi>Magistrates</hi> Sword to take hold upon the Unrighteous? Was not the Law made for such? And is not the higher Power, that the Soul must be subject to, above all Wickedness, Swearers,
+<pb n="14" facs="tcp:47371:8"/>Cursers, Adulterers, Cheaters, Lyars; are not such actions acted in the lower Power? And is not the higher Power above all such to which the Soul must be subject? and <hi>he that resists it, resists the Ordinance of God?</hi> Now, they that seek to bring People out, and from under all these gross evils, as before mentioned, do they not ease the <hi>Magistrates,</hi> and help the <hi>Magistrates,</hi> and are one with the <hi>Magistrates</hi> that be true <hi>Magistrates,</hi> that he should not have so much cumber to bring People from that which his Sword is a<g ref="char:EOLhyphen"/>gainst? And here, are we not one with the Law which was added because of transgression, one with that holy Law which brings People from under unholiness, one with that just Law which brings People from injustice, and one with the good and righteous Law that brings People from under that which is unrighteous and bad? So is it not clear here, That we are one with, and own <hi>Magistracy,</hi> that is a praise to them that do well; the Law was not made for the righteous but sinners and transgressors, &amp;c. For they that live justly, soberly, righteously, and holy, are one with the Law that is just and holy, and one with the true <hi>Magistracy,</hi> and the higher Power; And they that are against, and denies the <hi>Magistrates,</hi> and the Law, and the higher Power, are the Drunkards, Fornica<g ref="char:EOLhyphen"/>tors, Adulterers, Theeves, Cursers, Swearers, such as follow Pleasures, and live wantonly upon the Earth, and kill the Just in themselves, and cannot own the Just Law of God, nor the Higher Power, but they are in the lower power of Wickedness, and the Higher Power of God is above it: And so there are no people upon the Earth that are one with true Magistracy and the Higher Power, and with Justice and Equity, but such as walk in Righte<g ref="char:EOLhyphen"/>ousness, Holiness, Justice and Equity.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:47371:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
